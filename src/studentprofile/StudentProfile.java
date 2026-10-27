@@ -20,9 +20,11 @@ public class StudentProfile {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Name: Your Name");
-        System.out.println("Student ID: Your Student ID");
+        System.out.println("Name: Noorbiesyar Muqhriz Zulfan bin Noorsyahriman");
+        System.out.println("Student ID: S84757");
         System.out.println("Programme: Bachelor of Computer Science");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
